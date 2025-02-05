@@ -1,1 +1,0 @@
-// ce qui je veut dire par image clicable c'est les films et la tete des acteurs
