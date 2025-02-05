@@ -1,4 +1,4 @@
-import "./basDePage.scss"
+import "./entete.scss"
 import { useState } from "react";
 
 
